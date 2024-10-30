@@ -1,0 +1,1 @@
+This is demo project file created to practice about git and github through local repo
